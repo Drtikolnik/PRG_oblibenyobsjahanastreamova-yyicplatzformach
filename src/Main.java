@@ -15,7 +15,7 @@ public class Main {
 
         for (boolean behZapisu = true; behZapisu == true; ) {
 
-            System.out.println("ZADEJ CO CHCEŠ");
+            System.out.println("CO CHCEŠ ZADAT?");
             System.out.println("1 - PŘIDAT OBSAH");
             System.out.println("2 - VYPSAT VŠECHNY YOUTUBE VIDEA");
             System.out.println("3 - VYPSAT DÉLKU NEJKRATŠÍHO OBSAHU");
@@ -26,6 +26,23 @@ public class Main {
             switch (vyber) {
 
                 case 1:
+                    System.out.println("CO CHCEŠ ZADAT?");
+                    System.out.println("1 - YOUTUBE VIDEO");
+                    System.out.println("2 - SPOTIFY PODCAST");
+
+                    int vyberObsah = sc.nextInt();
+                    sc.nextLine();
+                    switch (vyberObsah) {
+                        case 1:
+                            youtube.add(new YoutubeVideo());
+                            break;
+
+
+
+                        case 2:
+                            spotify.add(new SpotifyPodcast());
+                            break;
+                    }
 
 
 
