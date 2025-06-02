@@ -50,7 +50,7 @@ public class Main {
 
                 case 2:
                     //VŠECHNY YOUTUBE VIDEA
-                    System.out.println("VÝPIS VŠECH YOUTUBE VIDEÍ:");
+                    System.out.println("Výpis všech youtube videí:");
                     for (YoutubeVideo video : youtube) {
                         System.out.println(video.toString());
                     }
