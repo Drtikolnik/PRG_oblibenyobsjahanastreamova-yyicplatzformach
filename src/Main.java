@@ -50,8 +50,9 @@ public class Main {
 
                 case 2:
                     //VŠECHNY YOUTUBE VIDEA
+                    System.out.println("VÝPIS VŠECH YOUTUBE VIDEÍ:");
                     for (YoutubeVideo video : youtube) {
-                        video.toString();
+                        System.out.println(video.toString());
                     }
                     break;
 
@@ -74,9 +75,9 @@ public class Main {
                     if (nejkratsiy == null) {
                         System.out.println("Žádný obsah není nahrán");
                     }else if (nejkratsis.getDelka() < nejkratsiy.getDelka()) {
-                        System.out.println("Nejkratší obsah je: " + nejkratsis.toString());
+                        System.out.println("Nejkratší obsah je: " + nejkratsis.toString() + " s délkou " + nejkratsis.getDelka());
                     }else{
-                        System.out.println("Nejkratší obsah je: " + nejkratsiy.toString());
+                        System.out.println("Nejkratší obsah je: " + nejkratsiy.toString() + " s délkou " + nejkratsiy.getDelka());
                     }
 
                     break;
