@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be688d3-1ff0-46c0-91f7-d89aa8734dba" name="Changes" comment="" />
+    <list default="true" id="2be688d3-1ff0-46c0-91f7-d89aa8734dba" name="Changes" comment="Byl pozdní večer – první máj –&#10;večerní máj – byl lásky čas.&#10;Hrdliččin zval ku lásce hlas,&#10;kde borový zaváněl háj.&#10;O lásce šeptal tichý mech;&#10;květoucí strom lhal lásky žel,&#10;svou lásku slavík růži pěl,&#10;růžinu jevil vonný dech.&#10;&#10;Jezero hladké v křovích stinných&#10;zvučelo temně tajný bol,&#10;břeh je objímal kol a kol;&#10;a slunce jasná světů jiných&#10;bloudila blankytnými pásky,&#10;planoucí tam co slzy lásky.&#10;&#10;I světy jich v oblohu skvoucí&#10;co ve chrám věčné lásky vzešly;&#10;až se – milostí k sobě vroucí&#10;změnivše se v jiskry hasnoucí –&#10;bloudící co milenci sešly.&#10;&#10;Ouplné lůny krásná tvář –&#10;tak bledě jasná, jasně bledá,&#10;jak milence milenka hledá –&#10;ve růžovou vzplanula zář;&#10;na vodách obrazy své zřela&#10;a sama k sobě láskou mřela.&#10;&#10;Dál blyštil bledý dvorů stín,&#10;jenž k sobě šly vždy blíž a blíž,&#10;jak v objetí by níž a níž&#10;se vinuly v soumraku klín,&#10;až posléze Šerem vjedno splynou.&#10;S nimi se stromy k stromům vinou.–&#10;Nejzáze stíní šero hor,&#10;tam bříza k boru, k bříze bor&#10;se kloní. Vlna za vlnou&#10;potokem spěchá.&#10;Vře plnou –&#10;v čas lásky – láskou každý tvor">
+      <change afterPath="$PROJECT_DIR$/src/IObsah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpotifyPodcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YoutubeVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Drtikolnik"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Drtikolnik/PRG_oblibenyobsjahanastreamova-yyicplatzformach.git",
+    "accountId": "3e46a97c-0907-456f-a143-2f9f96635474"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -24,6 +53,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,11 +77,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748860213737</updated>
-      <workItem from="1748860214767" duration="1000" />
+      <workItem from="1748860214767" duration="1492000" />
     </task>
+    <task id="LOCAL-00001" summary="Byl pozdní večer – první máj –&#10;večerní máj – byl lásky čas.&#10;Hrdliččin zval ku lásce hlas,&#10;kde borový zaváněl háj.&#10;O lásce šeptal tichý mech;&#10;květoucí strom lhal lásky žel,&#10;svou lásku slavík růži pěl,&#10;růžinu jevil vonný dech.&#10;&#10;Jezero hladké v křovích stinných&#10;zvučelo temně tajný bol,&#10;břeh je objímal kol a kol;&#10;a slunce jasná světů jiných&#10;bloudila blankytnými pásky,&#10;planoucí tam co slzy lásky.&#10;&#10;I světy jich v oblohu skvoucí&#10;co ve chrám věčné lásky vzešly;&#10;až se – milostí k sobě vroucí&#10;změnivše se v jiskry hasnoucí –&#10;bloudící co milenci sešly.&#10;&#10;Ouplné lůny krásná tvář –&#10;tak bledě jasná, jasně bledá,&#10;jak milence milenka hledá –&#10;ve růžovou vzplanula zář;&#10;na vodách obrazy své zřela&#10;a sama k sobě láskou mřela.&#10;&#10;Dál blyštil bledý dvorů stín,&#10;jenž k sobě šly vždy blíž a blíž,&#10;jak v objetí by níž a níž&#10;se vinuly v soumraku klín,&#10;až posléze Šerem vjedno splynou.&#10;S nimi se stromy k stromům vinou.–&#10;Nejzáze stíní šero hor,&#10;tam bříza k boru, k bříze bor&#10;se kloní. Vlna za vlnou&#10;potokem spěchá.&#10;Vře plnou –&#10;v čas lásky – láskou každý tvor">
+      <option name="closed" value="true" />
+      <created>1748860243523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748860243523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Byl pozdní večer – první máj –&#10;večerní máj – byl lásky čas.&#10;Hrdliččin zval ku lásce hlas,&#10;kde borový zaváněl háj.&#10;O lásce šeptal tichý mech;&#10;květoucí strom lhal lásky žel,&#10;svou lásku slavík růži pěl,&#10;růžinu jevil vonný dech.&#10;&#10;Jezero hladké v křovích stinných&#10;zvučelo temně tajný bol,&#10;břeh je objímal kol a kol;&#10;a slunce jasná světů jiných&#10;bloudila blankytnými pásky,&#10;planoucí tam co slzy lásky.&#10;&#10;I světy jich v oblohu skvoucí&#10;co ve chrám věčné lásky vzešly;&#10;až se – milostí k sobě vroucí&#10;změnivše se v jiskry hasnoucí –&#10;bloudící co milenci sešly.&#10;&#10;Ouplné lůny krásná tvář –&#10;tak bledě jasná, jasně bledá,&#10;jak milence milenka hledá –&#10;ve růžovou vzplanula zář;&#10;na vodách obrazy své zřela&#10;a sama k sobě láskou mřela.&#10;&#10;Dál blyštil bledý dvorů stín,&#10;jenž k sobě šly vždy blíž a blíž,&#10;jak v objetí by níž a níž&#10;se vinuly v soumraku klín,&#10;až posléze Šerem vjedno splynou.&#10;S nimi se stromy k stromům vinou.–&#10;Nejzáze stíní šero hor,&#10;tam bříza k boru, k bříze bor&#10;se kloní. Vlna za vlnou&#10;potokem spěchá.&#10;Vře plnou –&#10;v čas lásky – láskou každý tvor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Byl pozdní večer – první máj –&#10;večerní máj – byl lásky čas.&#10;Hrdliččin zval ku lásce hlas,&#10;kde borový zaváněl háj.&#10;O lásce šeptal tichý mech;&#10;květoucí strom lhal lásky žel,&#10;svou lásku slavík růži pěl,&#10;růžinu jevil vonný dech.&#10;&#10;Jezero hladké v křovích stinných&#10;zvučelo temně tajný bol,&#10;břeh je objímal kol a kol;&#10;a slunce jasná světů jiných&#10;bloudila blankytnými pásky,&#10;planoucí tam co slzy lásky.&#10;&#10;I světy jich v oblohu skvoucí&#10;co ve chrám věčné lásky vzešly;&#10;až se – milostí k sobě vroucí&#10;změnivše se v jiskry hasnoucí –&#10;bloudící co milenci sešly.&#10;&#10;Ouplné lůny krásná tvář –&#10;tak bledě jasná, jasně bledá,&#10;jak milence milenka hledá –&#10;ve růžovou vzplanula zář;&#10;na vodách obrazy své zřela&#10;a sama k sobě láskou mřela.&#10;&#10;Dál blyštil bledý dvorů stín,&#10;jenž k sobě šly vždy blíž a blíž,&#10;jak v objetí by níž a níž&#10;se vinuly v soumraku klín,&#10;až posléze Šerem vjedno splynou.&#10;S nimi se stromy k stromům vinou.–&#10;Nejzáze stíní šero hor,&#10;tam bříza k boru, k bříze bor&#10;se kloní. Vlna za vlnou&#10;potokem spěchá.&#10;Vře plnou –&#10;v čas lásky – láskou každý tvor" />
   </component>
 </project>
